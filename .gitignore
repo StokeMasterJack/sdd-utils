@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
 
+cmake-build-debug/
+sdd-package-2/
+
+dave/.idea/
+dave/build/
+dave/lib/
+
 # Object files
 *.o
 *.ko
