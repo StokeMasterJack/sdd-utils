@@ -22,7 +22,7 @@ void loadSddAndCount() {
     int auto_gc_and_minimize = 0; // disable (0) or enable (1) auto-gc & auto-min
     SddManager *manager1 = sdd_manager_create(var_count1, auto_gc_and_minimize);
     SddNode *sdd1 = sdd_read(
-            "/Volumes/repos/r/dev/logic-engine/sdd-c-utils/sdd-package-2/sdd-2.0/examples/input/opt-swap.sdd",
+            "/Volumes/repos/r/dev/logic-engine/sdd-utils/sdd-package-2/sdd-2.0/examples/input/opt-swap.sdd",
             manager1);
     SddModelCount count1 = sdd_model_count(sdd1, manager1);
     printf("sdd model count 1: %"PRImcS"\n", count1);
@@ -30,10 +30,10 @@ void loadSddAndCount() {
 
 }
 
-void loadCnfAndCount() {
+void loadCnfCompileToSddCountModels() {
 
     printf("\nLoading CNF \n");
-    Fnf *fnf = read_cnf("/Volumes/repos/r/dev/logic-engine/sdd-c-utils/sdd-package-2/sdd-2.0/cnf/c432.isc.cnf");
+    Fnf *fnf = read_cnf("/Volumes/repos/r/dev/logic-engine/sdd-utils/sdd-package-2/sdd-2.0/cnf/c432.isc.cnf");
     printf("vars=%"PRIlitS" clauses=%"PRIsS"", fnf->var_count, fnf->litset_count);
     printf("\nCreating VTree \n");
 
@@ -81,7 +81,7 @@ void loadCnfAndCount() {
 int main(int argc, char **argv) {
 
     loadSddAndCount();
-    loadCnfAndCount();
+    loadCnfCompileToSddCountModels();
     return 0;
 }
 

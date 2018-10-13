@@ -38,3 +38,7 @@ Build system:
   3. Some sample CNF files
   4. Some sample code
 
+### SDD Compile times
+I did some [SDD compile time trials](SDD-compile-times.md) .
+
+

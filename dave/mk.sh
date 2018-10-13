@@ -3,7 +3,7 @@
 
 mkdir -p build/obj//fnf
 
-PROJ=/Volumes/repos/r/dev/logic-engine/sdd-c-utils
+PROJ=/Volumes/repos/r/dev/logic-engine/sdd-utils
 
 DAVE=${PROJ}/dave
 SDD=${PROJ}/sdd-package-2
