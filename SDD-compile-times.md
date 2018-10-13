@@ -5,38 +5,37 @@ On my MacBook Pro
 ## Trial 1: CNF-to-SDD  (bottom-up)
 
 #### Compiler
-sdd-package-2/sdd-2.0
-I called from code using function: fnf_to_sdd()
+- sdd-package-2/sdd-2.0
+- I called from code using function: fnf_to_sdd()
 
 #### CNF file
-sdd-package-2/sdd-2.0/cnf/c432.isc.cnf
-File size: 11kb
-vars=432
-clauses=986
+- sdd-package-2/sdd-2.0/cnf/c432.isc.cnf
+- File size: 11kb
+- vars=432
+- clauses=986
 
 #### Results
-Compilation time: 19.926 sec
-Model count: 68719476736
-sdd file size: 221kb
+- Compilation time: 19.926 sec
+- Model count: 68719476736
+- sdd file size: 221kb
 
 ## Trial 2: CNF-to-Decision-DNNF (top-down)
 
 #### Compiler
-miniC2D-1.0.0
-I called from the command line using:
-./bin/darwin/miniC2D -C -c ../sdd-package-2/sdd-2.0/cnf/c432.isc.cnf
+- miniC2D-1.0.0
+- I called from the command line using:
+- ./bin/darwin/miniC2D -C -c ../sdd-package-2/sdd-2.0/cnf/c432.isc.cnf
 
 #### CNF file
-sdd-package-2/sdd-2.0/cnf/c432.isc.cnf
-File size: 11kb
-vars=432
-clauses=986
-
+- sdd-package-2/sdd-2.0/cnf/c432.isc.cnf
+- File size: 11kb
+- vars=432
+- clauses=986
 
 #### Results
-Compilation time: 4.359s
-Model count: 68719476736
-nnf file size: 10.1mb
+- Compilation time: 4.359s
+- Model count: 68719476736
+- nnf file size: 10.1mb
 
 #### Output
 ```
