@@ -12,14 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2865404f-9fef-4522-98bb-4763c2e5b15e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDD-compile-times.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dave/cnf/camry/camry.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.dnnf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dave/cnf/tundra/tundra.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dave/cnf/tundra/tundra.sd-dnnf.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dave/mk.sh" beforeDir="false" afterPath="$PROJECT_DIR$/dave/mk.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dave/src/dave.c" beforeDir="false" afterPath="$PROJECT_DIR$/dave/src/dave.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDD-compile-times.md" beforeDir="false" afterPath="$PROJECT_DIR$/compile-times.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,36 +178,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="README" value="2" />
-          <entry key="c" value="6" />
+          <entry key="README" value="3" />
+          <entry key="c" value="7" />
+          <entry key="cnf" value="3" />
           <entry key="gitignore" value="2" />
           <entry key="h" value="2" />
-          <entry key="md" value="3" />
+          <entry key="md" value="6" />
+          <entry key="sdd" value="1" />
           <entry key="sh" value="1" />
-          <entry key="txt" value="1" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bash" value="1" />
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="Markdown" value="3" />
-          <entry key="ObjectiveC" value="8" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Markdown" value="6" />
+          <entry key="ObjectiveC" value="9" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="c" value="23" />
+          <entry key="cnf" value="6" />
           <entry key="gitignore" value="26" />
-          <entry key="md" value="789" />
+          <entry key="md" value="1016" />
+          <entry key="txt" value="114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="789" />
+          <entry key="Markdown" value="1016" />
           <entry key="ObjectiveC" value="23" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="PLAIN_TEXT" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -215,11 +220,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/compile-times.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="615">
+                <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState>
+                  <previewPanelState version="2.6.0">
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:2012.5000329999998}}</jsState>
+                  </previewPanelState>
+                </markdownNavigatorState>
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/miniC2D-1.0.0/README">
+        <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.cnf.sdd">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.dnnf.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.cnf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-782607" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dave/cnf/tundra/tundra.sd-dnnf.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dave/cnf/tundra/tundra.cnf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -228,61 +282,16 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="560">
-                <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+              <first_editor relative-caret-position="543">
+                <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState>
                   <previewPanelState version="2.6.0">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:1186.9999744000002}}</jsState>
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:972}}</jsState>
                   </previewPanelState>
                 </markdownNavigatorState>
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SDD-compile-times.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState>
-                  <previewPanelState version="2.6.0">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:1299}}</jsState>
-                  </previewPanelState>
-                </markdownNavigatorState>
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/miniC2D-1.0.0/src/main.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="98" column="17" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dave/src/dave.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="107" />
             </state>
           </provider>
         </entry>
@@ -319,8 +328,8 @@
       <find>fnf_to_sdd</find>
       <find>out</find>
       <find>Saving compiled NNF to file</find>
-      <find>nnf_fname</find>
       <find>sdd</find>
+      <find>nnf_fname</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/libsdd-2.0</dir>
@@ -347,8 +356,16 @@
         <option value="$PROJECT_DIR$/dave/mk.sh" />
         <option value="$PROJECT_DIR$/dave/src/dave.c" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/SDD-compile-times.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/SDD-compile-times.md" />
+        <option value="$PROJECT_DIR$/dave/cnf/camry.cnf.txt" />
+        <option value="$PROJECT_DIR$/dave/cnf/camry.sd-dnnf.txt" />
+        <option value="$PROJECT_DIR$/dave/cnf/tundra.cnf" />
+        <option value="$PROJECT_DIR$/dave/cnf/tundra.sd-dnnf.txt" />
+        <option value="$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.cnf" />
+        <option value="$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.txt" />
+        <option value="$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.dnnf.txt" />
+        <option value="$PROJECT_DIR$/compile-times.md" />
       </list>
     </option>
   </component>
@@ -361,7 +378,7 @@
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1420" />
+    <option name="width" value="1440" />
     <option name="height" value="857" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -378,6 +395,17 @@
               <item name="cdd_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="sdd-utils" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cdd_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdd-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="dave" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cdd_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdd-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="dave" type="462c0819:PsiDirectoryNode" />
+              <item name="cnf" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -390,17 +418,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/cmake-build-debug" />
-      <recent name="$PROJECT_DIR$/dave" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dave/cnf" />
       <recent name="$PROJECT_DIR$/dave/include" />
       <recent name="$PROJECT_DIR$/dave/lib" />
       <recent name="$PROJECT_DIR$/dave" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dave/cnf/tundra" />
+      <recent name="$PROJECT_DIR$/dave/cnf/camry" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$/dave" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -453,18 +483,33 @@
       <workItem from="1539364835515" duration="8423000" />
       <workItem from="1539373822649" duration="374000" />
       <workItem from="1539424875056" duration="3913000" />
-      <workItem from="1539463656290" duration="2691000" />
+      <workItem from="1539463656290" duration="10284000" />
     </task>
+    <task id="LOCAL-00001" summary="Add compile tile test results">
+      <created>1539466537149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539466537149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add compile tile test results">
+      <created>1539466675848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539466675848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29708000" />
+    <option name="totallyTimeSpent" value="37301000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1420" height="857" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20464441" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24749643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -478,7 +523,7 @@
       <window_info anchor="bottom" id="Messages" order="8" weight="0.47843137" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32941177" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.3281046" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -487,7 +532,7 @@
       <window_info anchor="right" id="make" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20464441" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -501,7 +546,7 @@
       <window_info anchor="bottom" id="Messages" order="8" weight="0.47843137" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32941177" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.3281046" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,16 +561,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add compile tile test results" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add compile tile test results" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sdd-package-2.0/sdd-2.0/README" />
-    <entry file="file://$PROJECT_DIR$/sdd-package-2.0/libsdd-2.0/README" />
-    <entry file="file://$PROJECT_DIR$/sdd-package-2.0/libsdd-2.0/SConstruct" />
-    <entry file="file://$PROJECT_DIR$/libsdd-2.0/src/manager/manager.c" />
-    <entry file="file://$PROJECT_DIR$/libsdd-2.0/SConstruct" />
-    <entry file="file://$PROJECT_DIR$/libsdd-2.0/README" />
-    <entry file="file://$PROJECT_DIR$/sdd-2.0/src/getopt.c" />
-    <entry file="file://$PROJECT_DIR$/include/sddapi.h" />
-    <entry file="file://$PROJECT_DIR$/sdd-2.0/src/main.c" />
     <entry file="file://$PROJECT_DIR$/libsdd-2.0/sddapi.h" />
     <entry file="file://$PROJECT_DIR$/sdd-2.0/Makefile" />
     <entry file="file://$PROJECT_DIR$/sdd-2.0/README" />
@@ -710,13 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dave/src/dave.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/miniC2D-1.0.0/src/main.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -724,50 +757,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="560">
-            <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.6.0">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:1186.9999744000002}}</jsState>
-              </previewPanelState>
-            </markdownNavigatorState>
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/miniC2D-1.0.0/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SDD-compile-times.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.6.0">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:1299}}</jsState>
-              </previewPanelState>
-            </markdownNavigatorState>
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdd-package-2/sdd-2.0/cnf/c432.isc.cnf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miniC2D-1.0.0/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/src/dave.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/camry/camry.cnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/camry/camry.sd-dnnf.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/tundra/tundra.cnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/tundra/tundra.sd-dnnf.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.pl.dnnf.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.cnf.sdd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dave/cnf/toyota-2013-minus-tundra.cnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-782607" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="543">
+            <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState>
+              <previewPanelState version="2.6.0">
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:972}}</jsState>
+              </previewPanelState>
+            </markdownNavigatorState>
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compile-times.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="615">
+            <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState>
+              <previewPanelState version="2.6.0">
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:2012.5000329999998}}</jsState>
+              </previewPanelState>
+            </markdownNavigatorState>
+          </second_editor>
         </state>
       </provider>
     </entry>

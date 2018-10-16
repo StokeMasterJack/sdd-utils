@@ -39,6 +39,6 @@ Build system:
   4. Some sample code
 
 ### SDD Compile times
-I did some [SDD compile time trials](SDD-compile-times.md) .
+I did some [SDD compile time trials](compile-times.md) .
 
 
